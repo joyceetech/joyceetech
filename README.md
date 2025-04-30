@@ -13,3 +13,5 @@ Como contribuir para projetos open-source
 💡 Curiosidades sobre mim:
 🤖 Sou apaixonada por automações, bots e por encontrar formas de simplificar tarefas do dia a dia com código.
 ☕ Café e podcasts são meus combustíveis diário
+
+📫 **Contato**: https://www.linkedin.com/in/joyce-oliveira-672b90a2/ e joycecomyy@gmail.com  
